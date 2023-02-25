@@ -6,7 +6,7 @@ require (
 	github.com/cilium/ebpf v0.8.1
 	github.com/ehids/ebpfmanager v0.2.2
 	github.com/pkg/errors v0.9.1
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
+	golang.org/x/sys v0.1.0
 )
 
 require (
