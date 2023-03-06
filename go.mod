@@ -6,7 +6,7 @@ require (
 	github.com/cilium/ebpf v0.8.1
 	github.com/ehids/ebpfmanager v0.2.2
 	github.com/pkg/errors v0.9.1
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
+	golang.org/x/sys v0.5.0
 )
 
 require (
@@ -21,5 +21,5 @@ require (
 	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/vishvananda/netlink v1.1.0 // indirect
 	github.com/vishvananda/netns v0.0.0-20191106174202-0a2b9b5464df // indirect
-	golang.org/x/net v0.0.0-20210525063256-abc453219eb5 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
